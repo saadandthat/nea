@@ -1,0 +1,112 @@
+{
+  "grid_size": 16,
+  "components": [
+    {
+      "x": 0,
+      "y": 3,
+      "type": "emitter",
+      "fixed": true,
+      "dir": [
+        1,
+        0
+      ],
+      "colour": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "type": "emitter",
+      "fixed": true,
+      "dir": [
+        1,
+        0
+      ],
+      "colour": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "type": "emitter",
+      "fixed": true,
+      "dir": [
+        1,
+        0
+      ],
+      "colour": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "type": "obstacle",
+      "fixed": true
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "type": "obstacle",
+      "fixed": true
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "type": "receptor",
+      "fixed": true,
+      "colour": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "type": "prism",
+      "fixed": true
+    },
+    {
+      "x": 8,
+      "y": 15,
+      "type": "receptor",
+      "fixed": true,
+      "colour": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "type": "receptor",
+      "fixed": true,
+      "colour": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "x": 15,
+      "y": 11,
+      "type": "receptor",
+      "fixed": true,
+      "colour": [
+        1,
+        1,
+        0
+      ]
+    }
+  ]
+}
